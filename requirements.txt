@@ -28,9 +28,9 @@ psutil==5.9.*
 # soundfile==0.11.0
 
 # testing
-matplotlib==3.7.*
-websockets==11.*
-coverage==7.3.*
+matplotlib==3.8.*
+websockets==12.*
+coverage==7.4.*
 pytest-cov==4.1.*
 
 # Django application
